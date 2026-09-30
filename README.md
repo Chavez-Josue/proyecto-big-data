@@ -3,9 +3,9 @@
 Este repositorio contiene la implementación práctica del análisis descriptivo sobre un histórico de transacciones de comercio electrónico, desarrollado para la materia de **Manejo Masivo de Datos / Big Data**.
 
 ## 👥 Integrantes del Equipo
-- Integrante 1
-- Integrante 2
-- Integrante 3
+- Chávez Aguilera Josué
+- Cuellar Ponce Angel Fernando 
+- Jacobo Galindo Saul
 
 ## 📊 Descripción del Proyecto
 El proyecto procesa un conjunto de datos de ventas para responder a las preguntas fundamentales de la analítica descriptiva:
